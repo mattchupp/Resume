@@ -1,4 +1,4 @@
-# Resume
+# Résumé
 My Résumé
 
-__Can also be found [here](http://mattchupp.com/resume/index.html)__
+[My Website](mattchupp.com) also has my Résumé
