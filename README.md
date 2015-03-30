@@ -1,4 +1,4 @@
 # Résumé
 My Résumé
 
-[My Website](mattchupp.com) also has my Résumé
+[My Website](http://mattchupp.com) also has my Résumé
