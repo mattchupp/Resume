@@ -1,4 +1,3 @@
 # Résumé
-My Résumé
 
-[My Website](http://mattchupp.com) also has my Résumé
+Can also be found on [My Website](http://mattchupp.com)
